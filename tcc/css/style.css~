@@ -468,7 +468,7 @@
 				input[type="submit"].style2:hover,
 				input[type="reset"].style2:hover,
 				.button.style2:hover {
-					background-color: rgba(145,146,147,0.035);
+					background-color: rgba(145,146,147,0.35);
 				}
 				
 				.button.style2.down {
@@ -1060,4 +1060,5 @@
 
 .primary-text{
 	text-shadow:1px 1px rgba(0,0,0,0.5);
+	font-weight:400;
 }
