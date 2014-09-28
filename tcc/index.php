@@ -81,13 +81,13 @@ in general and Engineering fraternity in particular.</p>
 						<h2>Departments</h2>
 					</header>
 					<ol>
-					<li>Civil Engineering</li>
-					<li>Computer Science & Information Technology</li>
-					<li>Mechanical Engineering</li>
-					<li>Electrical Engineering</li>
-					<li>Electronics and Communication Engineering</li>
-					<li>Applied Sciences</li>
-					<li>MBA</li>
+					<li><a href="civil.html" style='color:black'>Civil Engineering</a></li>
+					<li><a href="http://www.google.com" style='color:black'>Computer Science & Information Technology</a></li>
+					<li><a href="http://www.google.com" style='color:black'>Mechanical Engineering</a></li>
+					<li><a href="http://www.google.com" style='color:black'>Electrical Engineering<a/></li>
+					<li><a href="http://www.google.com" style='color:black'>Electronics and Communication Engineering</a></li>
+					<li><a href="http://www.google.com" style='color:black'>Applied Sciences</a></li>
+					<li><a href="http://www.google.com" style='color:black'>MBA</a></li>
 					</ol>
 				</div>
 				<a href="#contact" class="button style2 down anchored">Next</a>
@@ -164,7 +164,7 @@ in general and Engineering fraternity in particular.</p>
 
 				<!-- Menu -->
 					<ul class="menu">
-						<li>Happy Teacher's Day</li>
+						<li>Testing & Consultancy Cell</li>
 					</ul>
 			
 			</footer>

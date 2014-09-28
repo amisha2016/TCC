@@ -480,7 +480,7 @@
 		.box {
 			background: #fff;
 			color: #39454b;
-			padding: 2em;
+			padding: 20em;
 		}
 		
 			.box.style2 {
