@@ -32,12 +32,13 @@
 				<!-- Nav -->
 					<nav id="nav">
 						<ul>
-							<li><a href="#home">Home</a></li>
+							<li><a href="#intro">Home</a></li>
 							<li><a href="#one">History</a></li>
 							<li><a href="#two">Departments</a></li>
-							<li><a href="#facilities">Catalog</a></li>
+							<li><a href="#facilities">Facilities</a></li>
 							<li><a href="#faculty">Faculty Members</a></li>
 							<li><a href="http://gndec.ac.in/~tcc/files/brochure.pdf">Brochure</a></li>
+							<li><a href="">Accolades</a><li>
 							<li><a href="#contact">Contact</a></li>
 						</ul>
 					</nav>
@@ -50,7 +51,7 @@
 					<header class="primary-branding">
 						<h2>Testing and Consultancy Cell</h2>
 					</header>
-					<p class="primary-text"><strong>Testing and Consultancy Cell</strong> is one the main departments of Guru Nanak Dev Engineering College, Ludhiana. It was being established in the year 1979 with a basic aim to provide quality service for technical problems at reasonable and affordable rates as a service to society in general and engineering fraternity in particular.  Ours is a pioneer institute providing Consultancy services in the states of Punjab, Haryana, Himachal, J&K and Rajsthan.</p>
+					<p class="primary-text"><strong>Testing and Consultancy Cell</strong> is one the main departments of Guru Nanak Dev Engineering College, Ludhiana. It was being established in the year 1979 with a basic aim to provide quality service for technical problems at reasonable and affordable rates as a service to society in general and engineering fraternity in particular.  Ours is a pioneer institute providing Consultancy services in the states of Punjab, Haryana, Himachal, J&K and Rajasthan.</p>
 					<footer>
 						<a href="#one" class="button style2 down">More</a>
 					</footer>
@@ -82,18 +83,34 @@ in general and Engineering fraternity in particular.</p>
 					</header>
 					<ol>
 					<li><a href="civil.html" style='color:black'>Civil Engineering</a></li>
-					<li><a href="http://www.google.com" style='color:black'>Computer Science & Information Technology</a></li>
-					<li><a href="http://www.google.com" style='color:black'>Mechanical Engineering</a></li>
-					<li><a href="http://www.google.com" style='color:black'>Electrical Engineering<a/></li>
-					<li><a href="http://www.google.com" style='color:black'>Electronics and Communication Engineering</a></li>
-					<li><a href="http://www.google.com" style='color:black'>Applied Sciences</a></li>
-					<li><a href="http://www.google.com" style='color:black'>MBA</a></li>
+					<li><a href="computer.html" style='color:black'>Computer Science & Information Technology</a></li>
+					<li><a href="mechanical.html" style='color:black'>Mechanical Engineering</a></li>
+					<li><a href="electrical.html" style='color:black'>Electrical Engineering<a/></li>
+					<li><a href="electronics.html" style='color:black'>Electronics and Communication Engineering</a></li>
+					<li><a href="appliedsciences.html" style='color:black'>Applied Sciences</a></li>
+					<li><a href="mba.html" style='color:black'>MBA</a></li>
 					</ol>
 				</div>
 				<a href="#contact" class="button style2 down anchored">Next</a>
 			</section>
 			
-		<!-- Work 
+	<!-- Facilities -->
+			<section id="facilities" class="main style2 left dark fullscreen">
+				<div class="content box style2">
+					<header>
+						<h2>Facilities</h2>
+					</header>
+					<ol>
+					<li><a href="civil.html" style='color:black'>Lab Work</a></li>
+					<li><a href="computer.html" style='color:black'>Field Work</a></li>
+					</ol>
+				</div>
+				<a href="#contact" class="button style2 down anchored">Next</a>
+			</section>
+			
+
+
+		<!-- Work -->
 			<section id="work" class="main style3 primary">
 				<div class="content container">
 					<header>
@@ -101,7 +118,7 @@ in general and Engineering fraternity in particular.</p>
 							
 					</header>
 					
-					<!-- Lightbox Gallery 						<div class="container small gallery">
+					<!-- Lightbox Gallery -->						<div class="container small gallery">
 							<div class="row flush images">
 								<div class="6u"><a href="images/fulls/01.jpg" class="image fit from-left"><img src="images/thumbs/01.jpg" title="The Anonymous Red" alt="" /></a></div>
 								<div class="6u"><a href="images/fulls/02.jpg" class="image fit from-right"><img src="images/thumbs/02.jpg" title="Airchitecture II" alt="" /></a></div>
@@ -154,9 +171,9 @@ in general and Engineering fraternity in particular.</p>
 
 				<!-- Icons -->
 					<ul class="actions">
-						<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-						<li><a href="#" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
+						<li><a href="https://twitter.com/tccgndec" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="https://www.facebook.com/pages/Testing-and-Consultancy-Cell-GNDEC-Ludhiana/497681330318981" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="https://plus.google.com/u/0/117256570032896355648" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
 						<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
 						<li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
 						<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
@@ -164,7 +181,7 @@ in general and Engineering fraternity in particular.</p>
 
 				<!-- Menu -->
 					<ul class="menu">
-						<li>Testing & Consultancy Cell</li>
+						<li>© 2014 Testing & Consultancy Cell. All rights reserved.</li>
 					</ul>
 			
 			</footer>
