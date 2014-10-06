@@ -38,7 +38,7 @@
 							<li><a href="#facilities">Facilities</a></li>
 							<li><a href="#faculty">Faculty Members</a></li>
 							<li><a href="http://gndec.ac.in/~tcc/files/brochure.pdf">Brochure</a></li>
-							<li><a href="">Accolades</a><li>
+							<li><a href="#accolades">Accolades</a><li>
 							<li><a href="#contact">Contact</a></li>
 						</ul>
 					</nav>
@@ -101,8 +101,8 @@ in general and Engineering fraternity in particular.</p>
 						<h2>Facilities</h2>
 					</header>
 					<ol>
-					<li><a href="civil.html" style='color:black'>Lab Work</a></li>
-					<li><a href="computer.html" style='color:black'>Field Work</a></li>
+					<li><a href="lab_work.html" style='color:black'>Lab Work</a></li>
+					<li><a href="field_work.php" style='color:black'>Field Work</a></li>
 					</ol>
 				</div>
 				<a href="#contact" class="button style2 down anchored">Next</a>
@@ -114,7 +114,7 @@ in general and Engineering fraternity in particular.</p>
 			<section id="work" class="main style3 primary">
 				<div class="content container">
 					<header>
-						<h2>Catalog</h2>
+						<h2>Our Work</h2>
 							
 					</header>
 					
@@ -135,6 +135,23 @@ in general and Engineering fraternity in particular.</p>
 
 				</div>
 			</section>
+
+	<!-- Accolades -->
+			<section id="accolades" class="main style2 left dark fullscreen">
+				<div class="content box style2">
+					<header>
+						<h2>Accolades</h2>
+					</header>
+					<ol>
+					<li><a href="achievements.php" style='color:black'>Achievements</a></li>
+					<li><a href="computer.html" style='color:black'>Computer Science & Information Technology</a></li>
+					<li><a href="mechanical.html" style='color:black'>Mechanical Engineering</a></li>
+					</ol>
+				</div>
+				<a href="#contact" class="button style2 down anchored">Next</a>
+			</section>
+
+
 			
 		<!-- Contact -->
 			<section id="contact" class="main style3 secondary">
@@ -165,6 +182,7 @@ in general and Engineering fraternity in particular.</p>
 					</div>
 				</div>
 			</section>
+
 			
 		<!-- Footer -->
 			<footer id="footer">
