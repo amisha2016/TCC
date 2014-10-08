@@ -69,7 +69,9 @@
 Testing & Consultancy Cell was established in the year 1979
 with a basic aim to provide quality service for technical problems
 at reasonable and affordable rates as a service to society
-in general and Engineering fraternity in particular.</p>
+in general and Engineering fraternity in particular.<br> 
+						<a style="color:black" href="historymore.php">Read more</a>					
+					</p>
 				</div>
 				<a href="#two" class="button style2 down anchored">Next</a>
 			</section>
@@ -91,7 +93,7 @@ in general and Engineering fraternity in particular.</p>
 					<li><a href="mba.html" style='color:black'>MBA</a></li>
 					</ol>
 				</div>
-				<a href="#contact" class="button style2 down anchored">Next</a>
+				<a href="#facilities" class="button style2 down anchored">Next</a>
 			</section>
 			
 	<!-- Facilities -->
@@ -105,7 +107,7 @@ in general and Engineering fraternity in particular.</p>
 					<li><a href="field_work.php" style='color:black'>Field Work</a></li>
 					</ol>
 				</div>
-				<a href="#contact" class="button style2 down anchored">Next</a>
+				<a href="#work" class="button style2 down anchored">Next</a>
 			</section>
 			
 
@@ -114,7 +116,7 @@ in general and Engineering fraternity in particular.</p>
 			<section id="work" class="main style3 primary">
 				<div class="content container">
 					<header>
-						<h2>Our Work</h2>
+						<h2>Glimpse of our work</h2>
 							
 					</header>
 					
@@ -134,6 +136,7 @@ in general and Engineering fraternity in particular.</p>
 						</div>
 
 				</div>
+				<a href="#accolades" class="button style2 down anchored">Next</a>
 			</section>
 
 	<!-- Accolades -->
@@ -144,8 +147,8 @@ in general and Engineering fraternity in particular.</p>
 					</header>
 					<ol>
 					<li><a href="achievements.php" style='color:black'>Achievements</a></li>
-					<li><a href="computer.html" style='color:black'>Computer Science & Information Technology</a></li>
-					<li><a href="mechanical.html" style='color:black'>Mechanical Engineering</a></li>
+					<li><a href="industry.php" style='color:black'>Industry</a></li>
+					<li><a href="sitemap.php" style='color:black'>Sitemap</a></li>
 					</ol>
 				</div>
 				<a href="#contact" class="button style2 down anchored">Next</a>
@@ -162,7 +165,7 @@ in general and Engineering fraternity in particular.</p>
 					<div class="box container small">
 					
 					<!-- Contact Form -->
-							<form method="post" action="#">
+							<form method="post" action="send_form_email.php">
 								<div class="row half">
 									<div class="6u"><input type="text" name="name" placeholder="Name" /></div>
 									<div class="6u"><input type="email" name="email" placeholder="Email" /></div>

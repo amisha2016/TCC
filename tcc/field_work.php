@@ -51,7 +51,7 @@
 						<h2>Field Work</h2>
 					</header>
 					<p class="primary-text"><strong>Field Work</strong> has the following facilities:
-					<ol>					
+					<ol class="work-list">					
 						
 						<li>soil for bc</li>
                                                 <li>ohsr</li>
@@ -72,7 +72,7 @@
 					</ol>
 					</p>
 					<footer>
-						<a href="#one" class="button style2 down">More</a>
+						<a href="#work" class="button style2 down">More</a>
 					</footer>
 				</div>
 			</section>
@@ -117,7 +117,7 @@ in general and Engineering fraternity in particular.</p>
 			<section id="work" class="main style3 primary">
 				<div class="content container">
 					<header>
-						<h2>Catalog</h2>
+						<h2>Glimpse of Field work</h2>
 							
 					</header>
 					
