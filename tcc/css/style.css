@@ -120,6 +120,7 @@
 		
 	footer {
 		margin-top: 2em;
+		text-align: center;
 	}
 
 	br.clear {
@@ -503,7 +504,7 @@
 		}
 		
 			.main.style1 {
-				text-align: center;
+				text-align: left;
 				padding: 10em 0 10em 0;
 			}
 			
