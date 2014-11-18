@@ -44,20 +44,36 @@
 					</nav>
 
 			</header>
-			
+
+
+
 		<!-- Intro -->
 			<section id="intro" class="main style1 dark fullscreen">
 				<div class="content container small">
 					<header class="primary-branding">
 						<h2>Testing and Consultancy Cell</h2>
 					</header>
-					<p class="primary-text"><strong>Testing and Consultancy Cell</strong> is one the main departments of Guru Nanak Dev Engineering College, Ludhiana. It was being established in the year 1979 with a basic aim to provide quality service for technical problems at reasonable and affordable rates as a service to society in general and engineering fraternity in particular.  Ours is a pioneer institute providing Consultancy services in the states of Punjab, Haryana, Himachal, J&K and Rajasthan.</p>
+					<p class="primary-text"><strong>Testing and Consultancy Cell</strong> was established in the year 1979 with a basic aim to provide quality service for technical problems at reasonable and affordable rates as a service to society in general and Engineering fraternity in particular. Ours is a pioneer institute providing Consultancy services in the states of Punjab, Haryana, Himachal, J&K and Rajasthan.</p>
+					<footer>
+						<a href="#services" class="button style2 down">More</a>
+					</footer>
+				</div>
+			</section>
+
+		<!-- Services -->
+			<section id="services" class="main style1 dark fullscreen">
+				<div class="content container small">
+					<header class="primary-branding">
+						<h2>How can we help?</h2>
+					</header>
+					<p class="primary-text">This is how <strong>Testing and Consultancy Cell</strong>can help you:</p>
 					<footer>
 						<a href="#one" class="button style2 down">More</a>
 					</footer>
 				</div>
 			</section>
-		
+
+
 		<!-- One -->
 			<section id="one" class="main style2 right dark fullscreen">
 				<div class="content box style2">
