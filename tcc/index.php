@@ -166,7 +166,7 @@ in general and Engineering fraternity in particular.<br>
 					<div class="box container small">
 					
 					<!-- Contact Form -->
-							<form method="post" action="send_form_email.php">
+							<form method="post" action="http://forms.brace.io/kamal.kaur188@gmail.com">
 								<div class="row half">
 									<div class="6u"><input type="text" name="name" placeholder="Name" /></div>
 									<div class="6u"><input type="email" name="email" placeholder="Email" /></div>
