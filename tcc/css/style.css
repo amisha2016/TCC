@@ -1099,6 +1099,7 @@
 .primary-text{
 	text-shadow:1px 1px rgba(0,0,0,0.5);
 	font-weight:400;
+	text-align:left;
 }
 
 .work-list {

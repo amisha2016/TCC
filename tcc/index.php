@@ -105,6 +105,7 @@ in general and Engineering fraternity in particular.<br>
 					<ol>
 					<li><a href="lab_work.html" style='color:black'>Lab Work</a></li>
 					<li><a href="field_work.php" style='color:black'>Field Work</a></li>
+					<li><a href="training.php" style='color:black'>Training</a></li>
 					</ol>
 				</div>
 				<a href="#work" class="button style2 down anchored">Next</a>
