@@ -120,6 +120,7 @@
 		
 	footer {
 		margin-top: 2em;
+		text-align: center;
 	}
 
 	br.clear {
@@ -437,9 +438,9 @@
 			
 				.button.down.anchored {
 					bottom: 0;
-					border-bottom: 0;
-					border-radius: 3em 3em 0 0;
-					height: 4.5em;
+					border-bottom: -1px none;
+					border-radius: 2.5em;
+					height: 5em;
 					margin-left: -2.5em;
 				}
 			
@@ -503,7 +504,7 @@
 		}
 		
 			.main.style1 {
-				text-align: center;
+				text-align: left;
 				padding: 10em 0 10em 0;
 			}
 			
@@ -588,7 +589,7 @@
 		
 			.main.style3 {
 				text-align: center;
-				padding: 6em 0 6em 0;
+				padding: 2em 0 2em 0;
 			}
 
 				.main.style3 .content {
@@ -721,6 +722,17 @@
 
 	#intro {
 		background: url('images/overlay.png'), url('../images/intro.jpg');
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, bottom center;
+		background-repeat: repeat, no-repeat;
+	}
+/*********************************************************************************/
+/* Services                                                                      */
+/*********************************************************************************/
+
+	#services {
+		background: url('images/overlay.png'), url('../images/department.jpg');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -1099,6 +1111,7 @@
 .primary-text{
 	text-shadow:1px 1px rgba(0,0,0,0.5);
 	font-weight:400;
+	text-align:left;
 }
 
 .work-list {

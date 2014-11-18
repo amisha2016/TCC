@@ -47,11 +47,15 @@
 
 		<!-- Services -->
 			<section id="services" class="main style1 dark fullscreen">
-				<div class="content container small">
+				<div class="content container small" style="width:770px; text-align:center">
 					<header class="primary-branding">
-						<h2>How can we help?</h2>
+						<h2>We assist you in...</h2>
 					</header>
-					<p class="primary-text">This is how <strong>Testing and Consultancy Cell</strong>can help you:</p>
+					    <div class="img1-circular">Survey</div>
+                                            <div class="img2-circular">Testing</div>
+                                            <div class="img3-circular">Training</div>
+                                            <div class="img4-circular">Structures</div>
+
 					<footer>
 						<a href="#intro" class="button style2 down">More</a>
 					</footer>
