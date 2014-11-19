@@ -171,22 +171,23 @@
 
 
 			
-		<!-- Contact -->
+		<!-- Contact --> every mail
 			<section id="contact" class="main style3 secondary">
 				<div class="content container">
 					<header>
-						<h2>Contact us.</h2>
+						<h2>Want to contact us?</h2> Just use this form and we'll respond you soon!	
 											</header>
 					<div class="box container small">
 					
 					<!-- Contact Form -->
 							<form method="post" action="http://forms.brace.io/kamal.kaur188@gmail.com">
 								<div class="row half">
-									<div class="6u"><input type="text" name="name" placeholder="Name" /></div>
-									<div class="6u"><input type="email" name="email" placeholder="Email" /></div>
+                                                                        <input type="hidden" name="_subject" value="TCC Feedback">
+									<div class="6u"><input type="text" name="name" placeholder="Enter your name" /></div>
+									<div class="6u"><input type="email" name="email" placeholder="Enter your email id" /></div>
 								</div>
 								<div class="row half">
-									<div class="12u"><textarea name="message" placeholder="Message" rows="6"></textarea></div>
+									<div class="12u"><textarea name="message" placeholder="Write your message or query..." rows="6"></textarea></div>
 								</div>
 								<div class="row">
 									<div class="12u">
