@@ -13,12 +13,13 @@
 		<script src="js/jquery.scrollgress.min.js"></script>
 		<script src="js/skel.min.js"></script>
 		<script src="js/init.js"></script>
-		<noscript>
+		
 			<link rel="stylesheet" href="css/skel.css" />
 			<link rel="stylesheet" href="css/style.css" />
+                        <link rel="stylesheet" href="css/services.css" />
 			<link rel="stylesheet" href="css/style-wide.css" />
 			<link rel="stylesheet" href="css/style-normal.css" />
-		</noscript>
+		
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 	</head>
 	<body>
@@ -43,31 +44,46 @@
 			</header>
 
 		<!-- Services -->
-			<section id="services" class="main style1 dark fullscreen">
- <p style="text-align:center; letter-spacing: 2.5px;"><strong>Testing and Consultancy Cell</strong>, Guru Nanak Dev Engineering College </p>
-
+			<section id="services" style="padding-bottom:0% !important" class="main style1 dark fullscreen">
+<h2 style="text-align:center">Testing and Consultancy Cell </h2>
+<p style="text-align:center; letter-spacing: 3.5px;">Guru Nanak Dev Engineering College </p>
 				<div class="content container small" style="height:400px; text-align:center">
 					<header class="primary-branding">
                       
                  <hr > 
-						<h2>We assist you in...</h2>
+						<p><h1 style="letter-spacing: 1.5px;">Providing technical services since 1979 in...</h1></p>
 					</header>
-						<div class="img1-circular">Survey
-                         <div class="description">
-                            Kamal 
-                            
-                            </div>
+                          <div class ="slide">
+	                      <div class="img-circular image1">
+                                  <div class="description">
+                                      <h3>Surveying</h3>
+                                  </div>
+                              </div>
+ 
+			      <div class="img-circular image2">
+                                  <div class="description">
+                                      <h3>Geo-techincal Investigation</h3>
+                                  </div>
+                              </div>  
+                        
+                              <div class="img-circular image3">
+                                  <div class="description">
+                                      <h3>Designing</h3>
+                                  </div>
+                              </div>
 
+                              <div class="img-circular image4">
+                                  <div class="description">
+                                      <h3>Environmental Engineering</h3>
+                                  </div>
+                              </div>
+
+                              <div class="img-circular image5">
+                                  <div class="description">
+                                      <h3>Others</h3>
+                                  </div>
+                              </div>    
                           </div>
-							<div class="img2-circular">
-		
-                            </div>
-                            <!--<div class="img3-circular">Training</div>
-                            <div class="img4-circular">Structures</div>
-                            <div class="img5-circular">Structures</div> -->
-
-					
-				</div>
 			</section>
 
 		<!-- Testing -->
