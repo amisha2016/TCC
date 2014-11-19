@@ -658,7 +658,7 @@
 				}
 			
 				.main.style3.secondary {
-					background: #f5f6f7;
+				background: none repeat scroll 0% 0% rgba(189, 192, 195, 1);
 				}
 
 	/* Dark */
@@ -776,6 +776,7 @@
 
 	#intro {
 		background: url('images/overlay.png'), url('../images/intro.jpg');
+	//	background-color: rgba(0,0,0,0.87);
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -786,11 +787,12 @@
 /*********************************************************************************/
 
 	#services {
-		background: url('images/overlay.png'), url('../images/department.jpg');
-		background-size: 256px 256px, cover;
+		background:  url('http://wallpapers55.com/wp-content/uploads/2014/02/artistic-brick-wall-wallpaper.jpg');
+		background-size: cover;
+	//	background-color: rgba(0,0,0,0.87);
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
-		background-repeat: repeat, no-repeat;
+		background-repeat: no-repeat, no-repeat;
 	}
 
 /*********************************************************************************/

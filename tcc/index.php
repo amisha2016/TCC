@@ -33,12 +33,9 @@
 					<nav id="nav">
 						<ul>
 							<li><a href="#intro">Home</a></li>
-							<li><a href="#one">History</a></li>
-							<li><a href="#two">Departments</a></li>
 							<li><a href="#facilities">Facilities</a></li>
 							<li><a href="#faculty">Faculty Members</a></li>
 							<li><a href="http://gndec.ac.in/~tcc/files/brochure.pdf">Brochure</a></li>
-							<li><a href="#accolades">Accolades</a><li>
 							<li><a href="#contact">Contact</a></li>
 						</ul>
 					</nav>
@@ -76,45 +73,6 @@
 					</footer>
 				</div>
 			</section>
-
-
-		<!-- One -->
-			<section id="one" class="main style2 right dark fullscreen">
-				<div class="content box style2">
-					<header>
-						<h2>History</h2>
-					</header>
-					<p>
-
-Testing & Consultancy Cell was established in the year 1979
-with a basic aim to provide quality service for technical problems
-at reasonable and affordable rates as a service to society
-in general and Engineering fraternity in particular.<br> 
-						<a style="color:black" href="historymore.php">Read more</a>					
-					</p>
-				</div>
-				<a href="#two" class="button style2 down anchored">Next</a>
-			</section>
-		
-	
-	<!-- Two -->
-			<section id="two" class="main style2 left dark fullscreen">
-				<div class="content box style2">
-					<header>
-						<h2>Departments</h2>
-					</header>
-					<ol>
-					<li><a href="civil.html" style='color:black'>Civil Engineering</a></li>
-					<li><a href="computer.html" style='color:black'>Computer Science & Information Technology</a></li>
-					<li><a href="mechanical.html" style='color:black'>Mechanical Engineering</a></li>
-					<li><a href="electrical.html" style='color:black'>Electrical Engineering<a/></li>
-					<li><a href="electronics.html" style='color:black'>Electronics and Communication Engineering</a></li>
-					<li><a href="appliedsciences.html" style='color:black'>Applied Sciences</a></li>
-					<li><a href="mba.html" style='color:black'>MBA</a></li>
-					</ol>
-				</div>
-				<a href="#facilities" class="button style2 down anchored">Next</a>
-			</section>
 			
 	<!-- Facilities -->
 			<section id="facilities" class="main style2 left dark fullscreen">
@@ -131,49 +89,6 @@ in general and Engineering fraternity in particular.<br>
 				<a href="#work" class="button style2 down anchored">Next</a>
 			</section>
 			
-
-
-		<!-- Work -->
-			<section id="work" class="main style3 primary">
-				<div class="content container">
-					<header>
-						<h2>Glimpse of our work</h2>
-							
-					</header>
-					
-					<!-- Lightbox Gallery -->						<div class="container small gallery">
-							<div class="row flush images">
-								<div class="6u"><a href="images/fulls/01.jpg" class="image fit from-left" title="Click to enlarge"><img src="images/thumbs/01.jpg" title="Work Sample1" alt="" /></a></div>
-								<div class="6u"><a href="images/fulls/02.jpg" class="image fit from-right" title="Click to enlarge"><img src="images/thumbs/02.jpg" title="Work Sample2" alt="" /></a></div>
-							</div>
-							<div class="row flush images">
-								<div class="6u"><a href="images/fulls/03.jpg" class="image fit from-left" title="Click to enlarge"><img src="images/thumbs/03.jpg" title="Work Sample3" alt="" /></a></div>
-								<div class="6u"><a href="images/fulls/04.jpg" class="image fit from-right" title="Click to enlarge"><img src="images/thumbs/04.jpg" title="Work Sample4" alt="" /></a></div>
-							</div>
-							<!--<div class="row flush images">
-								<div class="6u"><a href="images/fulls/05.jpg" class="image fit from-left" title="Click to enlarge"><img src="images/thumbs/05.jpg" title="Work Sample5" alt="" /></a></div>
-								<div class="6u"><a href="images/fulls/06.jpg" class="image fit from-right" title="Click to enlarge"><img src="images/thumbs/06.jpg" title="Work Sample6" alt="" /></a></div>*/
-							</div>-->
-						</div>
-
-				</div>
-				<a href="#accolades" class="button style2 down anchored">Next</a>
-			</section>
-
-	<!-- Accolades -->
-			<section id="accolades" class="main style2 left dark fullscreen">
-				<div class="content box style2">
-					<header>
-						<h2>Accolades</h2>
-					</header>
-					<ol>
-					<li><a href="achievements.php" style='color:black'>Achievements</a></li>
-					<li><a href="industry.php" style='color:black'>Industry</a></li>
-					<li><a href="sitemap.php" style='color:black'>Sitemap</a></li>
-					</ol>
-				</div>
-				<a href="#contact" class="button style2 down anchored">Next</a>
-			</section>
 
 
 			
