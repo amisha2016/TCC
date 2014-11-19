@@ -37,9 +37,9 @@ text-decoration:none;
 				<!-- Nav -->
 					<nav id="nav">
 						<ul>
-							<li><a href="#home">Home</a></li>
+							<li><a href="#services">Home</a></li>
 							<li><a href="#services">Services</a></li>
-							<li><a href="#faculty">Faculty Members</a></li>
+							<li><a href="#consultants">Consultants</a></li>
 							<li><a href="http://gndec.ac.in/~tcc/files/brochure.pdf">Brochure</a></li>
 							<li><a href="#contact">Contact</a></li>
 						</ul>
@@ -248,7 +248,30 @@ text-decoration:none;
 					</div>
 				</div>
 			</section>
+<!-- Consultants -->
+			<section id="consultants" class="main style1 dark fullscreen">
+				<div class="content container small">
+					<header class="primary-branding">
+						<h2>Our consultants:</h2>
+					</header>
+	<table>
+            <thead>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Contact</th>
+            </thead>
 
+            <tbody>
+                <tr><td>Dr.J.N.Jha</td>    <td>jagadanand@gmail.com</td>    <td> 09872843371</td></tr>
+                <tr><td>Dr.H.S.Rai</td>    <td> hardeep.rai@gmail.com</td>    <td>09855225007</td></tr>
+                <tr><td>Mr. Bhagwant Singh </td>    <td>@gmail.com </td>    <td> 09417178224</td></tr>
+            </tbody>
+        </table>
+							
+
+					
+				</div>
+			</section>
 			
 		<!-- Footer -->
 			<footer id="footer">
@@ -261,15 +284,15 @@ text-decoration:none;
 						<!--<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
 						<li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
 						<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>-->
-					</ul> <div class="rights" style="float:left; margin-top:20px;">© 2014 Testing & Consultancy Cell. All rights reserved.</div>
+					</ul> <div class="rights" style="float:left; margin-top:30px;">© 2014 Testing & Consultancy Cell. All rights reserved.</div>
 
 				<!-- Menu -->
 					<ul class="menu" style="display:inline">
                                                 
                                                 <li>Email: tcc@gndec.ac.in </li>
-                                                <li>Contact: +91 9855225007</li> <br>	
-                                                </ul>
-					
+                                                <li>Contact: +91 9855225007</li> 	
+                                       </ul>
+                                       
 			
 			</footer>
 
