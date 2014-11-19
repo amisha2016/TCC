@@ -736,7 +736,7 @@
 
 	#services {
 		background-size: cover;
-		background: linear-gradient(to bottom, #40F4AC 0%, #450BB3 100%) repeat scroll 0% 0% transparent;
+		background: linear-gradient(to bottom, rgba(158, 239, 206, 1) 0%, rgba(107, 155, 108, 1) 100%);	
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
 		background-repeat: no-repeat, no-repeat;
@@ -747,7 +747,7 @@
 
 	#home {
 		background-size: cover;
-		background: linear-gradient(to bottom, #40F4AC 0%, #450BB3 100%) repeat scroll 0% 0% transparent;
+		background: linear-gradient(to bottom, rgba(158, 239, 206, 1) 0%, rgba(107, 155, 108, 1) 100%);
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
 		background-repeat: no-repeat, no-repeat;
@@ -770,7 +770,7 @@
 
 	#survey {
 		background-size: cover;
-		background: linear-gradient(to bottom, #40F4AC 0%, #450BB3 100%) repeat scroll 0% 0% transparent;
+		background: linear-gradient(to bottom, rgba(158, 239, 206, 1) 0%, rgba(107, 155, 108, 1) 100%);
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
 		background-repeat: no-repeat, no-repeat;
@@ -794,7 +794,7 @@
 
 	#design {
 		background-size: cover;
-		background: linear-gradient(to bottom, #40F4AC 0%, #450BB3 100%) repeat scroll 0% 0% transparent;
+		background: linear-gradient(to bottom, rgba(158, 239, 206, 1) 0%, rgba(107, 155, 108, 1) 100%);
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
 		background-repeat: no-repeat, no-repeat;
@@ -819,7 +819,7 @@
 
 	#geo {
 		background-size: cover;
-		background: linear-gradient(to bottom, #40F4AC 0%, #450BB3 100%) repeat scroll 0% 0% transparent;
+		background: linear-gradient(to bottom, rgba(158, 239, 206, 1) 0%, rgba(107, 155, 108, 1) 100%);
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
 		background-repeat: no-repeat, no-repeat;
