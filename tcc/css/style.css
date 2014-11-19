@@ -787,9 +787,8 @@
 /*********************************************************************************/
 
 	#services {
-		background:  url('http://wallpapers55.com/wp-content/uploads/2014/02/artistic-brick-wall-wallpaper.jpg');
 		background-size: cover;
-	//	background-color: rgba(0,0,0,0.87);
+		background: linear-gradient(to bottom, #40F4AC 0%, #450BB3 100%) repeat scroll 0% 0% transparent;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
 		background-repeat: no-repeat, no-repeat;
