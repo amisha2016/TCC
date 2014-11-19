@@ -86,28 +86,47 @@
                           </div>
 			</section>
 
-		<!-- Testing -->
-			<section id="testing" class="main style1 dark fullscreen">
+				<!-- Environment Engineering -->
+			<section id="env" class="main style1 dark fullscreen">
 				<div class="content container small">
 					<header class="primary-branding">
-						<h2>Testing</h2>
+						<h2>Environment Engineering</h2>
 					</header>
-					<p class="primary-text"><strong>Testing</strong>.</p>
+		<ul>
+							<li><a href="#contact">Design of Air Pollution Control Devicedds</a></li>
+							<li><a href="#home">Analysis of water / waste water</a></li>
+							<li><a href="#services">Treatability Studies for Industrial Wastes</a></li>
+							<li><a href="#faculty">Design and Commissioning of Effluent Treatment Plants</a></li>
+							<li><a href="http://gndec.ac.in/~tcc/files/brochure.pdf">Project Feasibility Reports for ETPs</a></li>
+							<li><a href="#contact">Design of Air Pollution Control Devices</a></li>
+							<li><a href="#contact">Adequacy Reports for ETPs & APCDs</a></li>
+							<li><a href="#contact">Impact Assessment</a></li>
+							<li><a href="#contact">Environmental Auditing</a></li>
+						</ul>
+		
 					<footer>
-						<a href="#one" class="button style2 down">More</a>
+						<a href="#survey" class="button style2 down">More</a>
 					</footer>
 				</div>
 			</section>
 
-		<!-- Survey -->
+		<!-- Surveying -->
 			<section id="survey" class="main style1 dark fullscreen">
 				<div class="content container small">
 					<header class="primary-branding">
-						<h2>Survey</h2>
+						<h2>Surveying</h2>
 					</header>
-					<p class="primary-text"><strong>Survey</strong> </p>
+	<ul>
+							<li><a href="#home">Preparation of Contour Map</a></li>
+							<li><a href="#services">Alignment of different structures</a></li>
+							<li><a href="#faculty">Survey Plan and Levelling</a></li>
+							<li><a href="http://gndec.ac.in/~tcc/files/brochure.pdf">Preparation of L-section and X-section</a></li>
+							<li><a href="#contact">Preparation of digital maps</a></li>
+						</ul>
+
+
 					<footer>
-						<a href="#one" class="button style2 down">More</a>
+						<a href="#training" class="button style2 down">More</a>
 					</footer>
 				</div>
 			</section>
@@ -119,9 +138,13 @@
 					<header class="primary-branding">
 						<h2>Training</h2>
 					</header>
-					<p class="primary-text"><strong>Training</strong> </p>
+<ul>
+							<li><a href="#contact">Six Months Training</a></li>
+							<li><a href="#contact">Six Week Training</a></li>
+						</ul>
+
 					<footer>
-						<a href="#one" class="button style2 down">More</a>
+						<a href="#design" class="button style2 down">More</a>
 					</footer>
 				</div>
 			</section>
@@ -132,43 +155,63 @@
 					<header class="primary-branding">
 						<h2>Design</h2>
 					</header>
-					<p class="primary-text"><strong>Design</strong> </p>
+	<ul>
+							<li><a href="#home">Structural Design of Industrial, Institutional, Residential buildings</a></li>
+							<li><a href="#services">Structural Design of OHSR & Treatment Plant</a></li>
+							<li><a href="#faculty">Structutral Design of Steel Structures</a></li>
+							<li><a href="http://gndec.ac.in/~tcc/files/brochure.pdf">Structural Design of Masonry Strucutres</a></li>
+							<li><a href="#contact">Concrete Mixed Design</a></li>
+							<li><a href="#contact">Pavement Design</a></li>
+						</ul>
+
 					<footer>
-						<a href="#one" class="button style2 down">More</a>
+						<a href="#other" class="button style2 down">More</a>
 					</footer>
 				</div>
 			</section>
 
-		<!-- Consultancy -->
-			<section id="consultancy" class="main style1 dark fullscreen">
+		<!-- Other -->
+			<section id="other" class="main style1 dark fullscreen">
+				<div class="content container small">
+
+					<header class="primary-branding">
+						<h2>Other Services</h2>
+					</header>
+	<ul>
+							<li><a href="#home">Estimation and Costing of Project</a></li>
+							<li><a href="#services">Supervision and Quality Control</a></li>
+							<li><a href="#faculty">Calibration of different Equipments</a></li>
+						</ul>
+
+					<footer>
+						<a href="#geo" class="button style2 down">More</a>
+					</footer>
+				</div>
+			</section>
+
+
+		
+		<!-- Geo -->
+			<section id="geo" class="main style1 dark fullscreen">
 				<div class="content container small">
 					<header class="primary-branding">
-						<h2>Consultancy</h2>
+						<h2>Geo-technical Investigation</h2>
 					</header>
-					<p class="primary-text"><strong>Design</strong> </p>
+	<ul>
+							<li><a href="#home">Bearing Capacity of Soil</a></li>
+							<li><a href="#services">Pile Load Test</a></li>
+							<li><a href="#faculty">Chemical Analysis of Soil</a></li>
+							<li><a href="http://gndec.ac.in/~tcc/files/brochure.pdf">Compaction and Consolidation Test</a></li>
+							<li><a href="#contact">Field Density Test</a></li>
+							<li><a href="#contact">Triaxial Shear Test</a></li>
+							<li><a href="#contact">Partical Size Analysis Test</a></li>
+						</ul>
+
 					<footer>
-						<a href="#one" class="button style2 down">More</a>
+						<a href="#contact" class="button style2 down">More</a>
 					</footer>
 				</div>
 			</section>
-
-
-	<!-- Facilities -->
-			<section id="facilities" class="main style2 left dark fullscreen">
-				<div class="content box style2">
-					<header>
-						<h2>Facilities</h2>
-					</header>
-					<ol>
-					<li><a href="lab_work.html" style='color:black'>Lab Work</a></li>
-					<li><a href="field_work.php" style='color:black'>Field Work</a></li>
-					<li><a href="training.php" style='color:black'>Training</a></li>
-					</ol>
-				</div>
-				<a href="#work" class="button style2 down anchored">Next</a>
-			</section>
-			
-
 
 			
 		<!-- Contact --> every mail

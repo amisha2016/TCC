@@ -729,6 +729,7 @@
 		background-position: top left, bottom center;
 		background-repeat: repeat, no-repeat;
 	}
+
 /*********************************************************************************/
 /* Services                                                                      */
 /*********************************************************************************/
@@ -740,39 +741,104 @@
 		background-position: top left, bottom center;
 		background-repeat: no-repeat, no-repeat;
 	}
+/**********************************************************************************/
+/* HOME                                                                     */
+/*********************************************************************************/
+
+	#home {
+		background-size: cover;
+		background: linear-gradient(to bottom, #40F4AC 0%, #450BB3 100%) repeat scroll 0% 0% transparent;
+		background-attachment: fixed, fixed;
+		background-position: top left, bottom center;
+		background-repeat: no-repeat, no-repeat;
+	}
 
 /*********************************************************************************/
-/* One                                                                           */
+/* Testing                                                                       */
 /*********************************************************************************/
 
-	#one {
-		background: url('images/overlay.png'), url('../images/one.jpg');
+	#testing {
+		background: url('images/overlay.png'), url('../images/patt.png');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
 
 /*********************************************************************************/
-/* Two                                                                           */
+/* Survey                                                                     */
 /*********************************************************************************/
 
-	#two {
-		background: url('images/overlay.png'), url('../images/department.jpg');
+	#survey {
+		background-size: cover;
+		background: linear-gradient(to bottom, #40F4AC 0%, #450BB3 100%) repeat scroll 0% 0% transparent;
+		background-attachment: fixed, fixed;
+		background-position: top left, bottom center;
+		background-repeat: no-repeat, no-repeat;
+	}
+
+
+/*********************************************************************************/
+/* Training                                                                           */
+/*********************************************************************************/
+
+	#training {
+		background: url('images/overlay.png'), url('../images/patt.png');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
 
 /*********************************************************************************/
-/* Facilities                                                                           */
+/* Design                                                                           */
 /*********************************************************************************/
 
-	#facilities {
-		background: url('images/overlay.png'), url('../images/labs	.jpg');
+	#design {
+		background-size: cover;
+		background: linear-gradient(to bottom, #40F4AC 0%, #450BB3 100%) repeat scroll 0% 0% transparent;
+		background-attachment: fixed, fixed;
+		background-position: top left, bottom center;
+		background-repeat: no-repeat, no-repeat;
+
+	}
+
+/*********************************************************************************/
+/* Other                                                                           */
+/*********************************************************************************/
+
+	#other {
+		background: url('images/overlay.png'), url('../images/patt.png');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
+
+	
+/*********************************************************************************/
+/* GEO                                                                           */
+/*********************************************************************************/
+
+	#geo {
+		background-size: cover;
+		background: linear-gradient(to bottom, #40F4AC 0%, #450BB3 100%) repeat scroll 0% 0% transparent;
+		background-attachment: fixed, fixed;
+		background-position: top left, bottom center;
+		background-repeat: no-repeat, no-repeat;
+
+	}
+
+	
+/*********************************************************************************/
+/* Environment                                                                           */
+/*********************************************************************************/
+
+	#env {
+		background: url('images/overlay.png'), url('../images/patt.png');
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+
+
 
 
 
