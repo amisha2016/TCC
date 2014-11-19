@@ -21,6 +21,10 @@
 			<link rel="stylesheet" href="css/style-normal.css" />
 		
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+<style>
+a{
+text-decoration:none;
+</style>
 	</head>
 	<body>
 
@@ -56,31 +60,31 @@
                           <div class ="slide">
 	                      <div class="img-circular image1">
                                   <div class="description">
-                                      <h3>Surveying</h3>
+                                      <h3><a href="#survey">Surveying</a></h3>
                                   </div>
                               </div>
  
 			      <div class="img-circular image2">
                                   <div class="description">
-                                      <h3>Geo-techincal Investigation</h3>
+                                      <h3><a href="#geo">Geo-techincal Investigation</h3></a>
                                   </div>
                               </div>  
                         
                               <div class="img-circular image3">
                                   <div class="description">
-                                      <h3>Designing</h3>
+                                      <h3><a href="#design">Designing</h3></a>
                                   </div>
                               </div>
 
                               <div class="img-circular image4">
                                   <div class="description">
-                                      <h3>Environmental Engineering</h3>
+                                      <h3><a href="#env">Environment Engineering</h3></a>
                                   </div>
                               </div>
 
                               <div class="img-circular image5">
                                   <div class="description">
-                                      <h3>Others</h3>
+                                      <h3><a href="#other">Others services</h3></a>
                                   </div>
                               </div>    
                           </div>
@@ -93,15 +97,15 @@
 						<h2>Environment Engineering</h2>
 					</header>
 		<ul>
-							<li><a href="#contact">Design of Air Pollution Control Devicedds</a></li>
-							<li><a href="#home">Analysis of water / waste water</a></li>
-							<li><a href="#services">Treatability Studies for Industrial Wastes</a></li>
-							<li><a href="#faculty">Design and Commissioning of Effluent Treatment Plants</a></li>
+							<li><a href="">Design of Air Pollution Control Devicedds</a></li>
+							<li><a href="">Analysis of water / waste water</a></li>
+							<li><a href="">Treatability Studies for Industrial Wastes</a></li>
+							<li><a href="">Design and Commissioning of Effluent Treatment Plants</a></li>
 							<li><a href="http://gndec.ac.in/~tcc/files/brochure.pdf">Project Feasibility Reports for ETPs</a></li>
-							<li><a href="#contact">Design of Air Pollution Control Devices</a></li>
-							<li><a href="#contact">Adequacy Reports for ETPs & APCDs</a></li>
-							<li><a href="#contact">Impact Assessment</a></li>
-							<li><a href="#contact">Environmental Auditing</a></li>
+							<li><a href="">Design of Air Pollution Control Devices</a></li>
+							<li><a href="">Adequacy Reports for ETPs & APCDs</a></li>
+							<li><a href="">Impact Assessment</a></li>
+							<li><a href="">Environmental Auditing</a></li>
 						</ul>
 		
 					<footer>
@@ -117,11 +121,11 @@
 						<h2>Surveying</h2>
 					</header>
 	<ul>
-							<li><a href="#home">Preparation of Contour Map</a></li>
-							<li><a href="#services">Alignment of different structures</a></li>
-							<li><a href="#faculty">Survey Plan and Levelling</a></li>
+							<li><a href="">Preparation of Contour Map</a></li>
+							<li><a href="">Alignment of different structures</a></li>
+							<li><a href="">Survey Plan and Levelling</a></li>
 							<li><a href="http://gndec.ac.in/~tcc/files/brochure.pdf">Preparation of L-section and X-section</a></li>
-							<li><a href="#contact">Preparation of digital maps</a></li>
+							<li><a href="">Preparation of digital maps</a></li>
 						</ul>
 
 
@@ -139,8 +143,8 @@
 						<h2>Training</h2>
 					</header>
 <ul>
-							<li><a href="#contact">Six Months Training</a></li>
-							<li><a href="#contact">Six Week Training</a></li>
+							<li><a href="">Six Months Training</a></li>
+							<li><a href="">Six Weeks Training</a></li>
 						</ul>
 
 					<footer>
@@ -153,15 +157,15 @@
 			<section id="design" class="main style1 dark fullscreen">
 				<div class="content container small">
 					<header class="primary-branding">
-						<h2>Design</h2>
+						<h2>Designing</h2>
 					</header>
 	<ul>
-							<li><a href="#home">Structural Design of Industrial, Institutional, Residential buildings</a></li>
-							<li><a href="#services">Structural Design of OHSR & Treatment Plant</a></li>
-							<li><a href="#faculty">Structutral Design of Steel Structures</a></li>
-							<li><a href="http://gndec.ac.in/~tcc/files/brochure.pdf">Structural Design of Masonry Strucutres</a></li>
-							<li><a href="#contact">Concrete Mixed Design</a></li>
-							<li><a href="#contact">Pavement Design</a></li>
+							<li><a href="">Structural Design of Industrial, Institutional, Residential buildings</a></li>
+							<li><a href="">Structural Design of OHSR & Treatment Plant</a></li>
+							<li><a href="">Structutral Design of Steel Structures</a></li>
+							<li><a href="">Structural Design of Masonry Strucutres</a></li>
+							<li><a href="">Concrete Mixed Design</a></li>
+							<li><a href="">Pavement Design</a></li>
 						</ul>
 
 					<footer>
@@ -178,9 +182,9 @@
 						<h2>Other Services</h2>
 					</header>
 	<ul>
-							<li><a href="#home">Estimation and Costing of Project</a></li>
-							<li><a href="#services">Supervision and Quality Control</a></li>
-							<li><a href="#faculty">Calibration of different Equipments</a></li>
+							<li><a href="">Estimation and Costing of Project</a></li>
+							<li><a href="">Supervision and Quality Control</a></li>
+							<li><a href="">Calibration of different Equipments</a></li>
 						</ul>
 
 					<footer>
@@ -198,13 +202,13 @@
 						<h2>Geo-technical Investigation</h2>
 					</header>
 	<ul>
-							<li><a href="#home">Bearing Capacity of Soil</a></li>
-							<li><a href="#services">Pile Load Test</a></li>
-							<li><a href="#faculty">Chemical Analysis of Soil</a></li>
-							<li><a href="http://gndec.ac.in/~tcc/files/brochure.pdf">Compaction and Consolidation Test</a></li>
-							<li><a href="#contact">Field Density Test</a></li>
-							<li><a href="#contact">Triaxial Shear Test</a></li>
-							<li><a href="#contact">Partical Size Analysis Test</a></li>
+							<li><a href="">Bearing Capacity of Soil</a></li>
+							<li><a href="">Pile Load Test</a></li>
+							<li><a href="">Chemical Analysis of Soil</a></li>
+							<li><a href="">Compaction and Consolidation Test</a></li>
+							<li><a href="">Field Density Test</a></li>
+							<li><a href="">Triaxial Shear Test</a></li>
+							<li><a href="">Partical Size Analysis Test</a></li>
 						</ul>
 
 					<footer>
@@ -214,11 +218,11 @@
 			</section>
 
 			
-		<!-- Contact --> every mail
+		<!-- Contact --> 
 			<section id="contact" class="main style3 secondary">
 				<div class="content container">
 					<header>
-						<h2>Want to contact us?</h2> Just use this form and we'll respond you soon!	
+						<h2 style="color:#fff">Want to contact us?</h2> <p style="color:#fff">Just use this form and we'll respond you soon!</p>	
 											</header>
 					<div class="box container small">
 					
@@ -254,9 +258,9 @@
 						<li><a href="https://twitter.com/tccgndec" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 						<li><a href="https://www.facebook.com/pages/Testing-and-Consultancy-Cell-GNDEC-Ludhiana/497681330318981" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 						<li><a href="https://plus.google.com/u/0/117256570032896355648" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
-						<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+						<!--<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
 						<li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
-						<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>-->
 					</ul> <div class="rights" style="float:left; margin-top:20px;">© 2014 Testing & Consultancy Cell. All rights reserved.</div>
 
 				<!-- Menu -->

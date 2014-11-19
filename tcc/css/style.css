@@ -397,7 +397,7 @@
 		input[type="submit"],
 		input[type="reset"],
 		.button {
-			background-color: #98c593;
+			background-color: #e74c3c;
 			border: 0;
 			border-radius: 3.5em;
 			color: #fff;
@@ -604,7 +604,7 @@
 				}
 			
 				.main.style3.secondary {
-				background: none repeat scroll 0% 0% rgba(189, 192, 195, 1);
+				background: url('images/overlay.png'), url('../images/patt.png');
 				}
 
 	/* Dark */
@@ -919,7 +919,7 @@
 	
 		#contact .box {
 			position: relative;
-			bottom: 0;
+			bottom: 35px;
 			
 			-moz-transition: all 1s ease;
 			-webkit-transition: all 1s ease;
@@ -950,7 +950,7 @@
 		height: 5em;
 		line-height: 5em;
 		margin: 0;
-		background: #39454b;
+		background: #000;
 		color: #999;
 		color: rgba(185,186,187,0.5);
 		overflow: hidden;
