@@ -27,13 +27,13 @@
 			<header id="header">
 
 				<!-- Logo -->
-					<h1 id="logo">GNDEC</h1>
+					<h1 id="logo">TCC</h1>
 				
 				<!-- Nav -->
 					<nav id="nav">
 						<ul>
-							<li><a href="#intro">Home</a></li>
-							<li><a href="#facilities">Facilities</a></li>
+							<li><a href="#home">Home</a></li>
+							<li><a href="#services">Services</a></li>
 							<li><a href="#faculty">Faculty Members</a></li>
 							<li><a href="http://gndec.ac.in/~tcc/files/brochure.pdf">Brochure</a></li>
 							<li><a href="#contact">Contact</a></li>
@@ -70,21 +70,73 @@
 				</div>
 			</section>
 
-
-
-		<!-- Intro -->
-			<section id="intro" class="main style1 dark fullscreen">
+		<!-- Testing -->
+			<section id="testing" class="main style1 dark fullscreen">
 				<div class="content container small">
 					<header class="primary-branding">
-						<h2>Testing and Consultancy Cell</h2>
+						<h2>Testing</h2>
 					</header>
-					<p class="primary-text"><strong>Testing and Consultancy Cell</strong> was established in the year 1979 with a basic aim to provide quality service for technical problems at reasonable and affordable rates as a service to society in general and Engineering fraternity in particular. Ours is a pioneer institute providing Consultancy services in the states of Punjab, Haryana, Himachal, J&K and Rajasthan.</p>
+					<p class="primary-text"><strong>Testing</strong>.</p>
 					<footer>
 						<a href="#one" class="button style2 down">More</a>
 					</footer>
 				</div>
 			</section>
-			
+
+		<!-- Survey -->
+			<section id="survey" class="main style1 dark fullscreen">
+				<div class="content container small">
+					<header class="primary-branding">
+						<h2>Survey</h2>
+					</header>
+					<p class="primary-text"><strong>Survey</strong> </p>
+					<footer>
+						<a href="#one" class="button style2 down">More</a>
+					</footer>
+				</div>
+			</section>
+
+
+		<!-- Training -->
+			<section id="training" class="main style1 dark fullscreen">
+				<div class="content container small">
+					<header class="primary-branding">
+						<h2>Training</h2>
+					</header>
+					<p class="primary-text"><strong>Training</strong> </p>
+					<footer>
+						<a href="#one" class="button style2 down">More</a>
+					</footer>
+				</div>
+			</section>
+
+		<!-- Design -->
+			<section id="design" class="main style1 dark fullscreen">
+				<div class="content container small">
+					<header class="primary-branding">
+						<h2>Design</h2>
+					</header>
+					<p class="primary-text"><strong>Design</strong> </p>
+					<footer>
+						<a href="#one" class="button style2 down">More</a>
+					</footer>
+				</div>
+			</section>
+
+		<!-- Consultancy -->
+			<section id="consultancy" class="main style1 dark fullscreen">
+				<div class="content container small">
+					<header class="primary-branding">
+						<h2>Consultancy</h2>
+					</header>
+					<p class="primary-text"><strong>Design</strong> </p>
+					<footer>
+						<a href="#one" class="button style2 down">More</a>
+					</footer>
+				</div>
+			</section>
+
+
 	<!-- Facilities -->
 			<section id="facilities" class="main style2 left dark fullscreen">
 				<div class="content box style2">
