@@ -44,18 +44,29 @@
 
 		<!-- Services -->
 			<section id="services" class="main style1 dark fullscreen">
-				<div class="content container small" style="width:770px; text-align:center">
+ <p style="text-align:center; letter-spacing: 2.5px;"><strong>Testing and Consultancy Cell</strong>, Guru Nanak Dev Engineering College </p>
+
+				<div class="content container small" style="height:400px; text-align:center">
 					<header class="primary-branding">
+                      
+                 <hr > 
 						<h2>We assist you in...</h2>
 					</header>
-					    <div class="img1-circular">Survey</div>
-                                            <div class="img2-circular">Testing</div>
-                                            <div class="img3-circular">Training</div>
-                                            <div class="img4-circular">Structures</div>
+						<div class="img1-circular">Survey
+                         <div class="description">
+                            Kamal 
+                            
+                            </div>
 
-					<footer>
-						<a href="#intro" class="button style2 down">More</a>
-					</footer>
+                          </div>
+							<div class="img2-circular">
+		
+                            </div>
+                            <!--<div class="img3-circular">Training</div>
+                            <div class="img4-circular">Structures</div>
+                            <div class="img5-circular">Structures</div> -->
+
+					
 				</div>
 			</section>
 

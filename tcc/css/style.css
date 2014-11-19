@@ -12,6 +12,7 @@
 /* Basic                                                                         */
 /*********************************************************************************/
 .img1-circular{
+z-index:-1000;
  width: 150px;
  height: 150px;
  background-image: url('../images/survey.JPG');
@@ -66,6 +67,38 @@
   -webkit-border-radius: 100px;
  -moz-border-radius: 100px;
 }
+
+ .img5-circular{
+ width: 150px;
+ height: 150px;
+ background-image: url('../images/structure.png');
+ background-size: cover;
+ display: block;
+ position:relative;
+ float:left;
+ margin:40px 14px;
+ border-radius: 100px;
+ -webkit-border-radius: 100px;
+ -moz-border-radius: 100px;
+}
+
+.img1-circular:hover{
+color:red;
+}
+
+.description{
+
+color: blue;
+padding: 10px 5px;
+font-style: italic;
+margin: 0px 30px;
+font-size: 12px;
+border-top: 1px solid rgba(255, 255, 255, 0.5);
+opacity: 0;
+transition: all 1s ease-in-out 0.4s;
+
+}
+
 	body {
 		background: #fff;
 	}
