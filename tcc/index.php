@@ -266,7 +266,7 @@ text-decoration:none;
             <tbody>
                 <tr><td>Dr.J.N.Jha</td>    <td>jagadanand@gmail.com</td>    <td> 09872843371</td></tr>
                 <tr><td>Dr.H.S.Rai</td>    <td> hardeep.rai@gmail.com</td>    <td>09855225007</td></tr>
-                <tr><td>Mr. Bhagwant Singh </td>    <td>@gmail.com </td>    <td> 09417178224</td></tr>
+                <tr><td>Mr. Bhagwant Singh </td>    <td>bhagwantgne@gmail.com </td>    <td> 09417178224</td></tr>
             </tbody>
         </table>
 							
