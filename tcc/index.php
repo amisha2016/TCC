@@ -327,10 +327,11 @@ text-decoration:none;
 					<div class="box container small">
 					
 					<!-- Contact Form -->
-							<form method="post" action="http://forms.brace.io/kamal.kaur188@gmail.com">
+							<form method="post" action="http://forms.brace.io/tcc@gndec.ac.in">
 								<div class="row half">
                                                                         <input type="hidden" name="_subject" value="TCC Feedback">
 									<div class="6u"><input type="text" name="name" placeholder="Enter your name" /></div>
+                                                                        <input type="hidden" name="_next" value="http://localhost/TCC/tcc/thanks.html" />
 									<div class="6u"><input type="email" name="email" placeholder="Enter your email id" /></div>
 								</div>
 								<div class="row half">
