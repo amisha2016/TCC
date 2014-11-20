@@ -37,8 +37,10 @@ text-decoration:none;
 				<!-- Nav -->
 					<nav id="nav">
 						<ul>
-							<li><a href="#services">Home</a></li>
+							<!--<li><a href="#services">Home</a></li>-->
 							<li><a href="#services">Services</a></li>
+
+                                                         
 							<li><a href="#consultants">Consultants</a></li>
 							<li><a href="http://gndec.ac.in/~tcc/files/brochure.pdf">Brochure</a></li>
 							<li><a href="#contact">Contact</a></li>
@@ -227,7 +229,7 @@ text-decoration:none;
 					<div class="box container small">
 					
 					<!-- Contact Form -->
-							<form method="post" action="http://forms.brace.io/kamal.kaur188@gmail.com">
+							<form method="post" action="http://forms.brace.io/tcc@gndec.ac.in">
 								<div class="row half">
                                                                         <input type="hidden" name="_subject" value="TCC Feedback">
 									<div class="6u"><input type="text" name="name" placeholder="Enter your name" /></div>
