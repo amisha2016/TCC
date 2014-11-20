@@ -90,7 +90,7 @@ text-decoration:none;
 
                               <div class="img-circular image5">
                                   <div onclick="myhref('#other');" class="description">
-                                      <h3><a href="#other">Others services</h3></a>
+                                      <h3><a href="#survey">Others services</h3></a>
                                   </div>
                               </div>    
                           </div>
@@ -112,7 +112,7 @@ text-decoration:none;
 
 
 					<footer>
-						<a href="#training" class="button style2 down">More</a>
+						<a href="#geo" class="button style2 down">More</a>
 					</footer>
 				</div>
 			</section>
@@ -135,7 +135,7 @@ text-decoration:none;
 						</ul>
 
 					<footer>
-						<a href="#contact" class="button style2 down">More</a>
+						<a href="#design" class="button style2 down">More</a>
 					</footer>
 				</div>
 			</section>
@@ -156,7 +156,7 @@ text-decoration:none;
 						</ul>
 
 					<footer>
-						<a href="#other" class="button style2 down">More</a>
+						<a href="#env" class="button style2 down">More</a>
 					</footer>
 				</div>
 			</section>
@@ -182,7 +182,7 @@ text-decoration:none;
 						</ul>
 		
 					<footer>
-						<a href="#survey" class="button style2 down">More</a>
+						<a href="#training" class="button style2 down">More</a>
 					</footer>
 				</div>
 			</section>
@@ -200,7 +200,7 @@ text-decoration:none;
 						</ul>
 
 					<footer>
-						<a href="#design" class="button style2 down">More</a>
+						<a href="#other" class="button style2 down">More</a>
 					</footer>
 				</div>
 			</section>
@@ -219,7 +219,7 @@ text-decoration:none;
 						</ul>
 
 					<footer>
-						<a href="#geo" class="button style2 down">More</a>
+						<a href="#consultants" class="button style2 down">More</a>
 					</footer>
 				</div>
 			</section>
@@ -327,7 +327,7 @@ text-decoration:none;
 					<div class="box container small">
 					
 					<!-- Contact Form -->
-							<form method="post" action="http://forms.brace.io/tcc@gndec.ac.in">
+							<form method="post" action="http://forms.brace.io/eralbert9191@gmail.com">
 								<div class="row half">
                                                                         <input type="hidden" name="_subject" value="TCC Feedback">
 									<div class="6u"><input type="text" name="name" placeholder="Enter your name" /></div>
