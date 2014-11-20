@@ -42,7 +42,7 @@ text-decoration:none;
 
                                                          
 							<li><a href="#consultants">Consultants</a></li>
-							<li><a href="http://gndec.ac.in/~tcc/files/brochure.pdf">Brochure</a></li>
+							<li><a href="../tcc/files/tcc_brochure.pdf">Brochure</a></li>
 							<li><a href="#contact">Contact</a></li>
 						</ul>
 					</nav>
