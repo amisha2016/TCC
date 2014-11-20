@@ -42,15 +42,16 @@ text-decoration:none;
 				<!-- Nav -->
 					<nav id="nav">
 						<ul>
-							<!--<li><a href="#services">Home</a></li>-->
 							<li><a href="#services">Services</a></li>
 							<li><a href="http://gndec.ac.in/~tcc/files/brochure.pdf">Brochure</a></li>
-							<li><a href="#contact">Contact</a></li>
                                                         <li><a href="#consultants">Consultants</a></li>
+							<li><a href="#contact">Contact</a></li>
 						</ul>
 					</nav>
 
 			</header>
+
+
 
 		<!-- Services -->
 			<section id="services" style="padding-bottom:0% !important" class="main style1 dark fullscreen">
@@ -95,30 +96,6 @@ text-decoration:none;
                           </div>
 			</section>
 
-				<!-- Environment Engineering -->
-			<section id="env" class="main style1 dark fullscreen">
-				<div class="content container small">
-					<header class="primary-branding">
-						<h2>Environment Engineering</h2>
-					</header>
-		<ul>
-							<li><a href="">Design of Air Pollution Control Devicedds</a></li>
-							<li><a href="">Analysis of water / waste water</a></li>
-							<li><a href="">Treatability Studies for Industrial Wastes</a></li>
-							<li><a href="">Design and Commissioning of Effluent Treatment Plants</a></li>
-							<li><a href="http://gndec.ac.in/~tcc/files/brochure.pdf">Project Feasibility Reports for ETPs</a></li>
-							<li><a href="">Design of Air Pollution Control Devices</a></li>
-							<li><a href="">Adequacy Reports for ETPs & APCDs</a></li>
-							<li><a href="">Impact Assessment</a></li>
-							<li><a href="">Environmental Auditing</a></li>
-						</ul>
-		
-					<footer>
-						<a href="#survey" class="button style2 down">More</a>
-					</footer>
-				</div>
-			</section>
-
 		<!-- Surveying -->
 			<section id="survey" class="main style1 dark fullscreen">
 				<div class="content container small">
@@ -140,20 +117,25 @@ text-decoration:none;
 				</div>
 			</section>
 
-
-		<!-- Training -->
-			<section id="training" class="main style1 dark fullscreen">
+		
+		<!-- Geo -->
+			<section id="geo" class="main style1 dark fullscreen">
 				<div class="content container small">
 					<header class="primary-branding">
-						<h2>Training</h2>
+						<h2>Geo-technical Investigation</h2>
 					</header>
-<ul>
-							<li><a href="">Six Months Training</a></li>
-							<li><a href="">Six Weeks Training</a></li>
+	<ul>
+							<li><a href="">Bearing Capacity of Soil</a></li>
+							<li><a href="">Pile Load Test</a></li>
+							<li><a href="">Chemical Analysis of Soil</a></li>
+							<li><a href="">Compaction and Consolidation Test</a></li>
+							<li><a href="">Field Density Test</a></li>
+							<li><a href="">Triaxial Shear Test</a></li>
+							<li><a href="">Partical Size Analysis Test</a></li>
 						</ul>
 
 					<footer>
-						<a href="#design" class="button style2 down">More</a>
+						<a href="#contact" class="button style2 down">More</a>
 					</footer>
 				</div>
 			</section>
@@ -179,6 +161,50 @@ text-decoration:none;
 				</div>
 			</section>
 
+
+
+				<!-- Environment Engineering -->
+			<section id="env" class="main style1 dark fullscreen">
+				<div class="content container small">
+					<header class="primary-branding">
+						<h2>Environment Engineering</h2>
+					</header>
+		<ul>
+							<li><a href="">Design of Air Pollution Control Devicedds</a></li>
+							<li><a href="">Analysis of water / waste water</a></li>
+							<li><a href="">Treatability Studies for Industrial Wastes</a></li>
+							<li><a href="">Design and Commissioning of Effluent Treatment Plants</a></li>
+							<li><a href="http://gndec.ac.in/~tcc/files/brochure.pdf">Project Feasibility Reports for ETPs</a></li>
+							<li><a href="">Design of Air Pollution Control Devices</a></li>
+							<li><a href="">Adequacy Reports for ETPs & APCDs</a></li>
+							<li><a href="">Impact Assessment</a></li>
+							<li><a href="">Environmental Auditing</a></li>
+						</ul>
+		
+					<footer>
+						<a href="#survey" class="button style2 down">More</a>
+					</footer>
+				</div>
+			</section>
+
+
+		<!-- Training -->
+			<section id="training" class="main style1 dark fullscreen">
+				<div class="content container small">
+					<header class="primary-branding">
+						<h2>Training</h2>
+					</header>
+<ul>
+							<li><a href="">Six Months Training</a></li>
+							<li><a href="">Six Weeks Training</a></li>
+						</ul>
+
+					<footer>
+						<a href="#design" class="button style2 down">More</a>
+					</footer>
+				</div>
+			</section>
+
 		<!-- Other -->
 			<section id="other" class="main style1 dark fullscreen">
 				<div class="content container small">
@@ -199,60 +225,7 @@ text-decoration:none;
 			</section>
 
 
-		
-		<!-- Geo -->
-			<section id="geo" class="main style1 dark fullscreen">
-				<div class="content container small">
-					<header class="primary-branding">
-						<h2>Geo-technical Investigation</h2>
-					</header>
-	<ul>
-							<li><a href="">Bearing Capacity of Soil</a></li>
-							<li><a href="">Pile Load Test</a></li>
-							<li><a href="">Chemical Analysis of Soil</a></li>
-							<li><a href="">Compaction and Consolidation Test</a></li>
-							<li><a href="">Field Density Test</a></li>
-							<li><a href="">Triaxial Shear Test</a></li>
-							<li><a href="">Partical Size Analysis Test</a></li>
-						</ul>
-
-					<footer>
-						<a href="#contact" class="button style2 down">More</a>
-					</footer>
-				</div>
-			</section>
-
 			
-		<!-- Contact --> 
-			<section id="contact" class="main style3 secondary">
-				<div class="content container">
-					<header>
-						<h2 style="color:#fff">Want to contact us?</h2> <p style="color:#fff">Just use this form and we'll respond you soon!</p>	
-											</header>
-					<div class="box container small">
-					
-					<!-- Contact Form -->
-							<form method="post" action="http://forms.brace.io/kamal.kaur188@gmail.com">
-								<div class="row half">
-                                                                        <input type="hidden" name="_subject" value="TCC Feedback">
-									<div class="6u"><input type="text" name="name" placeholder="Enter your name" /></div>
-									<div class="6u"><input type="email" name="email" placeholder="Enter your email id" /></div>
-								</div>
-								<div class="row half">
-									<div class="12u"><textarea name="message" placeholder="Write your message or query..." rows="6"></textarea></div>
-								</div>
-								<div class="row">
-									<div class="12u">
-										<ul class="actions">
-											<li><input onclick="myhref('/');" type="submit" value="Send Message" /></li>
-										</ul>
-									</div>
-								</div>
-							</form>
-
-					</div>
-				</div>
-			</section>
 <!-- Consultants -->
 			<section id="consultants" class="main style1 dark fullscreen">
 				<div class="content container small">
@@ -344,7 +317,39 @@ text-decoration:none;
 					
 				</div>
 			</section>
-			
+
+		<!-- Contact --> 
+			<section id="contact" class="main style3 secondary">
+				<div class="content container">
+					<header>
+						<h2 style="color:#fff">Want to contact us?</h2> <p style="color:#fff">Just use this form and we'll respond you soon!</p>	
+											</header>
+					<div class="box container small">
+					
+					<!-- Contact Form -->
+							<form method="post" action="http://forms.brace.io/kamal.kaur188@gmail.com">
+								<div class="row half">
+                                                                        <input type="hidden" name="_subject" value="TCC Feedback">
+									<div class="6u"><input type="text" name="name" placeholder="Enter your name" /></div>
+									<div class="6u"><input type="email" name="email" placeholder="Enter your email id" /></div>
+								</div>
+								<div class="row half">
+									<div class="12u"><textarea name="message" placeholder="Write your message or query..." rows="6"></textarea></div>
+								</div>
+								<div class="row">
+									<div class="12u">
+										<ul class="actions">
+											<li><input onclick="myhref('/');" type="submit" value="Send Message" /></li>
+										</ul>
+									</div>
+								</div>
+							</form>
+
+					</div>
+				</div>
+			</section>
+
+
 		<!-- Footer -->
 			<footer id="footer">
 
