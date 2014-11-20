@@ -736,7 +736,7 @@
 
 	#services {
 		background-size: cover;
-		background: linear-gradient(to bottom, rgba(158, 239, 206, 1) 0%, rgba(107, 155, 108, 1) 100%);	
+		background-image: linear-gradient(to bottom, rgba(141, 218, 186, 1) 0%, #6B9B6C 100%);
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
 		background-repeat: no-repeat, no-repeat;
@@ -842,7 +842,7 @@
 /* Consultants                                                                           */
 /*********************************************************************************/
 
-	#geo {
+	#consultants {
 		background-size: cover;
 		background: linear-gradient(to bottom, rgba(158, 239, 206, 1) 0%, rgba(107, 155, 108, 1) 100%);
 		background-attachment: fixed, fixed;

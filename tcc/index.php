@@ -25,6 +25,11 @@
 a{
 text-decoration:none;
 </style>
+
+<script type="text/javascript">
+    function myhref(web){
+      window.location.href = web;}
+</script>
 	</head>
 	<body>
 
@@ -39,11 +44,9 @@ text-decoration:none;
 						<ul>
 							<!--<li><a href="#services">Home</a></li>-->
 							<li><a href="#services">Services</a></li>
-
-                                                         
-							<li><a href="#consultants">Consultants</a></li>
-							<li><a href="../tcc/files/tcc_brochure.pdf">Brochure</a></li>
+							<li><a href="http://gndec.ac.in/~tcc/files/brochure.pdf">Brochure</a></li>
 							<li><a href="#contact">Contact</a></li>
+                                                        <li><a href="#consultants">Consultants</a></li>
 						</ul>
 					</nav>
 
@@ -61,31 +64,31 @@ text-decoration:none;
 					</header>
                           <div class ="slide">
 	                      <div class="img-circular image1">
-                                  <div class="description">
+                                  <div onclick="myhref('#survey');" class="description">
                                       <h3><a href="#survey">Surveying</a></h3>
                                   </div>
                               </div>
  
 			      <div class="img-circular image2">
-                                  <div class="description">
+                                  <div onclick="myhref('#geo');" class="description">
                                       <h3><a href="#geo">Geo-techincal Investigation</h3></a>
                                   </div>
                               </div>  
                         
                               <div class="img-circular image3">
-                                  <div class="description">
+                                  <div onclick="myhref('#design');" class="description">
                                       <h3><a href="#design">Designing</h3></a>
                                   </div>
                               </div>
 
                               <div class="img-circular image4">
-                                  <div class="description">
+                                  <div onclick="myhref('#env');" class="description">
                                       <h3><a href="#env">Environment Engineering</h3></a>
                                   </div>
                               </div>
 
                               <div class="img-circular image5">
-                                  <div class="description">
+                                  <div onclick="myhref('#other');" class="description">
                                       <h3><a href="#other">Others services</h3></a>
                                   </div>
                               </div>    
@@ -229,7 +232,7 @@ text-decoration:none;
 					<div class="box container small">
 					
 					<!-- Contact Form -->
-							<form method="post" action="http://forms.brace.io/tcc@gndec.ac.in">
+							<form method="post" action="http://forms.brace.io/kamal.kaur188@gmail.com">
 								<div class="row half">
                                                                         <input type="hidden" name="_subject" value="TCC Feedback">
 									<div class="6u"><input type="text" name="name" placeholder="Enter your name" /></div>
@@ -241,7 +244,7 @@ text-decoration:none;
 								<div class="row">
 									<div class="12u">
 										<ul class="actions">
-											<li><input type="submit" value="Send Message" /></li>
+											<li><input onclick="myhref('/');" type="submit" value="Send Message" /></li>
 										</ul>
 									</div>
 								</div>
@@ -258,16 +261,83 @@ text-decoration:none;
 					</header>
 	<table>
             <thead>
-                <th>Name</th>
-                <th>Email</th>
-                <th>Contact</th>
+                <th style="font-size:"></th>
+                <th></th>
+                <th></th>
             </thead>
 
             <tbody>
-                <tr><td>Dr.J.N.Jha</td>    <td>jagadanand@gmail.com</td>    <td> 09872843371</td></tr>
-                <tr><td>Dr.H.S.Rai</td>    <td> hardeep.rai@gmail.com</td>    <td>09855225007</td></tr>
-                <tr><td>Mr. Bhagwant Singh </td>    <td>bhagwantgne@gmail.com </td>    <td> 09417178224</td></tr>
-            </tbody>
+                <tr>
+                    <td><strong>Geo Technical Engg.</strong></td>   
+                    <td>Dr. J.N.Jha, Ph.D.</td>    
+                </tr>
+                <tr>
+                    <td></td>    
+                    <td> Er. Kulbir Singh Gill, Ph.D</td>    
+                </tr>
+                <tr>
+                    <td> </td>    
+                    <td>Dr. B.S. Walia, Ph.D</td>    
+                </tr>
+                <tr>
+                    <td> </td>     
+                    <td>Prof. Harjinder Singh, M.E</td>    
+                </tr>
+                <tr>
+                    <td> </td>    
+                    <td>Dr. B.S. Walia, Ph.D</td>    
+                </tr>
+                <tr>
+                    <td> </td>    
+                    <td>Prof. GurdeepakSingh, M.Tech.</td>    
+                </tr>
+                <tr>
+                    <td><strong>Structure </strong></td>
+                    <td>Dr. Harpal Singh, Ph.D</td>    
+                </tr>
+                <tr>
+                    <td> </td>    
+                    <td>Dr. Hardeep Singh Rai, Ph.D</td>    
+                </tr>
+                <tr>
+                    <td> </td>    
+                    <td>Dr. Harvinder Singh, Ph.D</td>    
+                </tr>
+                <tr>
+                    <td> </td>    
+                    <td>Dr. Jagbir Singh, Ph.D</td>    
+                </tr>
+                <tr>
+                    <td> </td>    <td>Prof. Kanwarjit Singh Bedi, M.Tech</td>    
+                </tr>
+                <tr>
+                    <td> </td>    <td>Prof. Parshant Garg, M.Tech</td>    
+                </tr>
+                <tr>
+                    <td> </td>    <td>Prof. Harpreet Kaur, M.Tech</td>    
+                </tr>
+                <tr>
+                    <td> </td>    <td>Prof. Inderpreet Kaur, M.Tech</td>    
+                </tr>
+                <tr>
+                    <td><strong>Highway </strong></td> <td>Dr. Kulbir Singh Gill, Ph.D</td>    
+                </tr>
+                <tr>
+                    <td><strong> Material Testing</strong></td> <td>Dr. Jagbir Singh, Ph.D</td>    
+                </tr>
+                <tr>
+                    <td> </td>    <td>Prof. Kanwarjit Singh Bedi, M.Tech</td>    
+                </tr>
+                <tr>
+                    <td><strong>Survey</strong></td>    <td>Dr. B.S. Walia, Ph.D</td>    
+                </tr>
+                <tr>
+                    <td><strong> Chemical Testing</strong></td>    <td>Dr.R.P. Singh, Ph.D</td>    
+                </tr>
+                <tr>
+                    <td><strong> Environmental Engg.</strong></td>    <td>Prof. Puneet Pal Singh, M.E</td>    
+                </tr>
+              </tbody>
         </table>
 							
 
