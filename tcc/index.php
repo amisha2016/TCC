@@ -327,7 +327,7 @@ text-decoration:none;
 					<div class="box container small">
 					
 					<!-- Contact Form -->
-							<form method="post" action="http://forms.brace.io/eralbert9191@gmail.com">
+							<form method="post" action="http://forms.brace.io/tcc@gndec.ac.in">
 								<div class="row half">
                                                                         <input type="hidden" name="_subject" value="TCC Feedback">
 									<div class="6u"><input type="text" name="name" placeholder="Enter your name" /></div>
