@@ -90,7 +90,7 @@ text-decoration:none;
 
                               <div class="img-circular image5">
                                   <div onclick="myhref('#other');" class="description">
-                                      <h3><a href="#survey">Others services</h3></a>
+                                      <h3><a href="#other">Others services</h3></a>
                                   </div>
                               </div>    
                           </div>
