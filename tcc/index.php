@@ -242,7 +242,7 @@ text-decoration:none;
             <tbody>
                 <tr>
                     <td><strong>Geo Technical Engg.</strong></td>   
-                    <td>Dr. J.N.Jha, Ph.D.</td>    
+                    <td>Dr. J.N. Jha, Ph.D</td>    
                 </tr>
                 <tr>
                     <td></td>    
@@ -262,7 +262,7 @@ text-decoration:none;
                 </tr>
                 <tr>
                     <td> </td>    
-                    <td>Prof. GurdeepakSingh, M.Tech.</td>    
+                    <td>Prof. Gurdeepak Singh, M.Tech</td>    
                 </tr>
                 <tr>
                     <td><strong>Structure </strong></td>
@@ -305,7 +305,7 @@ text-decoration:none;
                     <td><strong>Survey</strong></td>    <td>Dr. B.S. Walia, Ph.D</td>    
                 </tr>
                 <tr>
-                    <td><strong> Chemical Testing</strong></td>    <td>Dr.R.P. Singh, Ph.D</td>    
+                    <td><strong> Chemical Testing</strong></td>    <td>Dr. R.P. Singh, Ph.D</td>    
                 </tr>
                 <tr>
                     <td><strong> Environmental Engg.</strong></td>    <td>Prof. Puneet Pal Singh, M.E</td>    
