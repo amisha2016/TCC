@@ -37,7 +37,7 @@ text-decoration:none;
 			<header id="header">
 
 				<!-- Logo -->
-					<h1 id="logo">TCC</h1>
+					<h1 id="logo"><a href="#services">TCC</a></h1>
 				
 				<!-- Nav -->
 					<nav id="nav">
