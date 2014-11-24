@@ -1,0 +1,30 @@
+<style type="text/css">
+   .drop ul{
+        padding: 0;
+        list-style: none;
+    }
+    .drop ul li{
+        float: left;
+        width: 100px;
+        text-align: center;
+        line-height: 21px;
+    }
+    .drop ul li a{
+        display: block;
+        padding: 5px 10px;
+        color: #333;
+        background: #f2f2f2;
+        text-decoration: none;
+    }
+    .drop ul li a:hover{
+        color: #fff;
+        background: #939393;
+    }
+    .drop ul li ul{
+        display: none;
+    }
+   .drop ul li:hover ul{
+        display: block; /* display the dropdown */
+    }
+</style>
+

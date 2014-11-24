@@ -19,6 +19,7 @@
                         <link rel="stylesheet" href="css/services.css" />
 			<link rel="stylesheet" href="css/style-wide.css" />
 			<link rel="stylesheet" href="css/style-normal.css" />
+			<link rel="stylesheet" href="css/drop.css" />
 		
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 <style>
@@ -34,21 +35,31 @@ text-decoration:none;
 	<body>
 
 		<!-- Header -->
-			<header id="header">
+			<header class="drop" id="header">
 
 				<!-- Logo -->
 					<h1 id="logo"><a href="#services">TCC</a></h1>
-				
+			<div class="drop">	
 				<!-- Nav -->
 					<nav id="nav">
 						<ul>
-							<li><a href="#services">Services</a></li>
-							<li><a href="http://gndec.ac.in/~tcc/files/brochure.pdf">Brochure</a></li>
-                                                        <li><a href="#consultants">Consultants</a></li>
-							<li><a href="#contact">Contact</a></li>
+        <li>
+            <a href="#services">Services</a>
+            <ul>
+                <li><a href="#survey">Surveying</a></li>
+                <li><a href="#geo">Geo-Tech</a></li>
+                <li><a href="#design">Design</a></li>
+                <li><a href="#training">Training</a></li>
+                <li><a href="#other">Other</a></li>
+            </ul>
+        </li>
+        <li><a href="files/tcc_brochure.pdf">Brochure</a></li>
+        <li><a href="#consultants">Consult</a></li>
+        <li><a href="#contact">Contact</a></li>
+
 						</ul>
 					</nav>
-
+			</div>
 			</header>
 
 
@@ -103,11 +114,11 @@ text-decoration:none;
 						<h2>Surveying</h2>
 					</header>
 	<ul>
-							<li><a href="">Preparation of Contour Map</a></li>
-							<li><a href="">Alignment of different structures</a></li>
-							<li><a href="">Survey Plan and Levelling</a></li>
-							<li><a href="http://gndec.ac.in/~tcc/files/brochure.pdf">Preparation of L-section and X-section</a></li>
-							<li><a href="">Preparation of digital maps</a></li>
+							<li>Preparation of Contour Map</li>
+							<li>Alignment of different structures</li>
+							<li>Survey Plan and Levelling</li>
+							<li>Preparation of L-section and X-section</li>
+							<li>Preparation of digital maps</li>
 						</ul>
 
 
@@ -125,13 +136,13 @@ text-decoration:none;
 						<h2>Geo-technical Investigation</h2>
 					</header>
 	<ul>
-							<li><a href="">Bearing Capacity of Soil</a></li>
-							<li><a href="">Pile Load Test</a></li>
-							<li><a href="">Chemical Analysis of Soil</a></li>
-							<li><a href="">Compaction and Consolidation Test</a></li>
-							<li><a href="">Field Density Test</a></li>
-							<li><a href="">Triaxial Shear Test</a></li>
-							<li><a href="">Partical Size Analysis Test</a></li>
+							<li>Bearing Capacity of Soil</li>
+							<li>Pile Load Test</li>
+							<li>Chemical Analysis of Soil</li>
+							<li>Compaction and Consolidation Test</li>
+							<li>Field Density Test</li>
+							<li>Triaxial Shear Test</li>
+							<li>Partical Size Analysis Test</li>
 						</ul>
 
 					<footer>
@@ -147,12 +158,12 @@ text-decoration:none;
 						<h2>Designing</h2>
 					</header>
 	<ul>
-							<li><a href="">Structural Design of Industrial, Institutional, Residential buildings</a></li>
-							<li><a href="">Structural Design of OHSR & Treatment Plant</a></li>
-							<li><a href="">Structutral Design of Steel Structures</a></li>
-							<li><a href="">Structural Design of Masonry Strucutres</a></li>
-							<li><a href="">Concrete Mixed Design</a></li>
-							<li><a href="">Pavement Design</a></li>
+							<li>Structural Design of Industrial, Institutional, Residential buildings</li>
+							<li>Structural Design of OHSR & Treatment Plant</li>
+							<li>Structutral Design of Steel Structures</li>
+							<li>Structural Design of Masonry Strucutres</li>
+							<li>Concrete Mixed Design</li>
+							<li>Pavement Design</li>
 						</ul>
 
 					<footer>
@@ -170,15 +181,15 @@ text-decoration:none;
 						<h2>Environment Engineering</h2>
 					</header>
 		<ul>
-							<li><a href="">Design of Air Pollution Control Devicedds</a></li>
-							<li><a href="">Analysis of water / waste water</a></li>
-							<li><a href="">Treatability Studies for Industrial Wastes</a></li>
-							<li><a href="">Design and Commissioning of Effluent Treatment Plants</a></li>
-							<li><a href="http://gndec.ac.in/~tcc/files/brochure.pdf">Project Feasibility Reports for ETPs</a></li>
-							<li><a href="">Design of Air Pollution Control Devices</a></li>
-							<li><a href="">Adequacy Reports for ETPs & APCDs</a></li>
-							<li><a href="">Impact Assessment</a></li>
-							<li><a href="">Environmental Auditing</a></li>
+							<li>Design of Air Pollution Control Devicedds</li>
+							<li>Analysis of water / waste water</li>
+							<li>Treatability Studies for Industrial Wastes</li>
+							<li>Design and Commissioning of Effluent Treatment Plants</li>
+							<li>Project Feasibility Reports for ETPs</li>
+							<li>Design of Air Pollution Control Devices</li>
+							<li>Adequacy Reports for ETPs & APCDs</li>
+							<li>Impact Assessment</li>
+							<li>Environmental Auditing</li>
 						</ul>
 		
 					<footer>
@@ -195,8 +206,8 @@ text-decoration:none;
 						<h2>Training</h2>
 					</header>
 <ul>
-							<li><a href="">Six Months Training</a></li>
-							<li><a href="">Six Weeks Training</a></li>
+							<li>Six Months Training</li>
+							<li>Six Weeks Training</li>
 						</ul>
 
 					<footer>
@@ -213,9 +224,9 @@ text-decoration:none;
 						<h2>Other Services</h2>
 					</header>
 	<ul>
-							<li><a href="">Estimation and Costing of Project</a></li>
-							<li><a href="">Supervision and Quality Control</a></li>
-							<li><a href="">Calibration of different Equipments</a></li>
+							<li>Estimation and Costing of Project</li>
+							<li>Supervision and Quality Control</li>
+							<li>Calibration of different Equipments</li>
 						</ul>
 
 					<footer>
