@@ -50,7 +50,7 @@ text-decoration:none;
                 <li><a href="#geo">Geotech</a></li>
                 <li><a href="#design">Design</a></li>
                 <li><a href="#training">Training</a></li>
-                <li><a href="#training">Environment</a></li>
+                <li><a href="#env">Environment</a></li>
                 <li><a href="#other">Other</a></li>
             </ul>
         </li>
