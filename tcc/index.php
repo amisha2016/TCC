@@ -47,14 +47,15 @@ text-decoration:none;
             <a href="#services">Services</a>
             <ul>
                 <li><a href="#survey">Surveying</a></li>
-                <li><a href="#geo">Geo-Tech</a></li>
+                <li><a href="#geo">Geotech</a></li>
                 <li><a href="#design">Design</a></li>
                 <li><a href="#training">Training</a></li>
+                <li><a href="#training">Environment</a></li>
                 <li><a href="#other">Other</a></li>
             </ul>
         </li>
         <li><a href="files/tcc_brochure.pdf">Brochure</a></li>
-        <li><a href="#consultants">Consult</a></li>
+        <li><a href="#consultants">Consultants</a></li>
         <li><a href="#contact">Contact</a></li>
 
 						</ul>
@@ -133,7 +134,7 @@ text-decoration:none;
 			<section id="geo" class="main style1 dark fullscreen">
 				<div class="content container small">
 					<header class="primary-branding">
-						<h2>Geo-technical Investigation</h2>
+						<h2>Geotechnical Investigation</h2>
 					</header>
 	<ul>
 							<li>Bearing Capacity of Soil</li>
