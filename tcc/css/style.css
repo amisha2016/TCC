@@ -665,7 +665,7 @@
 		top: 0;
 		width: 100%;
 		background: #fff;
-		background: rgba(255,255,255,0.95);
+		background: rgba(255,255,255,1);
 		height: 3em;
 		line-height: 3em;
 		box-shadow: 0 0 0.15em 0 rgba(0,0,0,0.1);
@@ -861,7 +861,7 @@
 	
 	#footer {
 		position: relative;
-		height: 9em;
+		height: 6em;
 		line-height: 5em;
 		margin: 0;
 		background: #000;
