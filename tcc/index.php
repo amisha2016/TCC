@@ -261,10 +261,6 @@ text-decoration:none;
                     <td> Er. Kulbir Singh Gill, Ph.D</td>    
                 </tr>
                 <tr>
-                    <td> </td>    
-                    <td>Dr. B.S. Walia, Ph.D</td>    
-                </tr>
-                <tr>
                     <td> </td>     
                     <td>Prof. Harjinder Singh, M.E</td>    
                 </tr>
