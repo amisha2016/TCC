@@ -12,6 +12,10 @@
 /* Basic                                                                         */
 /*********************************************************************************/
 
+#search{
+float:right;
+position:'absolute';
+}
 	body {
 		background: #fff;
 	}
@@ -691,7 +695,8 @@
 		}
 	
 	#nav {
-        float:right;
+		position: absolute;
+		right: 3em;
 		top: 0;
 		height: 3em;
 		line-height: 3em;
