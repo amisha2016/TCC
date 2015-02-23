@@ -16,11 +16,11 @@
                             }
 							$categories = $con->query($sql);
                             $count =0;
-                            echo "<table style='border:1px solid black'><tr><th style='border:1px solid black;padding:8px;'>Name</th><th style='border:1px solid black;padding:5px;'>Price</th></tr>";
+                            echo "<center><table style='border:1px solid black;width:50%;'><tr><th style='border:1px solid black;padding:8px;'>Name</th><th style='border:1px solid black;padding:5px;'>Price</th></tr>";
                             while($row = $categories->fetch_assoc()){
                             echo "<tr><td style='border:1px solid black;padding:5px;'>".$row['name']."</td><td style='border:1px solid black;padding:8px;'>".$row['price_per_unit']."</td></tr>";
 }
-echo "</table>"
+echo "</table></center>";
 ?>
 </ul>
 		

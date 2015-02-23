@@ -37,20 +37,21 @@ text-decoration:none;
         <li>
             <a href="index.php">Services</a>
             <ul>
-                <li><a href="#survey">Surveying</a></li>
-                <li><a href="#geo">Geotech</a></li>
-                <li><a href="#design">Design</a></li>
-                <li><a href="#training">Training</a></li>
-                <li><a href="#env">Environment</a></li>
-                <li><a href="#other">Other</a></li>
+                <li><a href="index.php#survey">Surveying</a></li>
+                <li><a href="index.php#geo">Geotech</a></li>
+                <li><a href="index.php#design">Design</a></li>
+                <li><a href="index.php#training">Training</a></li>
+                <li><a href="index.php#env">Environment</a></li>
+                <li><a href="index.php#other">Other</a></li>
             </ul>
         </li>
         <li>
         <li><a href="ratelist.php">Pricing</a></li>
         <li><a href="achievements.php">Achievements</a></li>
+	<li><a href="history.php">History</a></li>
         <li><a href="files/tcc_brochure.pdf">Brochure</a></li>
-        <li><a href="#consultants">Consultants</a></li>
-
+        <li><a href="index.php#consultants">Consultants</a></li>
+	<li><a href="index.php#contact">Contact us</li>
 						</ul>
 					</nav>
 			</div>

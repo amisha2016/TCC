@@ -263,13 +263,32 @@
 		<!-- Contact --> 
 			<section id="contact" class="main style3 secondary">
 				<div class="content container">
-					<header>
+					<header style="padding-top:5%">
 						<h2 style="color:#fff">Want to contact us?</h2> <p style="color:#fff">Just use this form and we'll respond you soon!</p>	
+<?php
+include("connection_two.php");
+if(isset($_POST['submit'])){
+$to = "sofathitesh@gmail.com";
+$subject = $_POST['_subject'];
+$name = $_POST['name'];
+$email = $_POST['email'];
+$message = $_POST['message'];
+$headers = 'From: '.$email . "\r\n" .
+    'Reply-To: '.$email . "\r\n" .
+    'X-Mailer: PHP/' . phpversion();
+mail($to,$subject,$message,$headers);
+//"insert into emails values('".$to."','".$subject."','".$name."','".$email."','".$message."')";   
+$con->query("insert into emails values('".$to."','".$subject."','".$name."','".$email."','".$message."','')");
+echo "Thanks for feedback";
+
+}
+?>                      
+
 											</header>
 					<div class="box container small">
-					
+
 					<!-- Contact Form -->
-							<form method="post" action="http://forms.brace.io/tcc@gndec.ac.in">
+							<form method="post" action="index.php#contact">
 								<div class="row half">
                                                                         <input type="hidden" name="_subject" value="TCC Feedback">
 									<div class="6u"><input type="text" name="name" placeholder="Enter your name" /></div>
@@ -282,7 +301,7 @@
 								<div class="row">
 									<div class="12u">
 										<ul class="actions">
-											<li><input onclick="myhref('/');" type="submit" value="Send Message" /></li>
+											<li><input onclick="myhref('/');" type="submit" value="Send Message" name='submit' /></li>
 										</ul>
 									</div>
 								</div>
